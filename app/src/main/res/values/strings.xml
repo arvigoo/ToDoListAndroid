@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final-Project-1</string>
+    <string name="task_completed">Task Complete</string>
+    <string name="team_1">Team 1</string>
+    <string name="add_task">Add Task</string>
+    <string name="Add_a_new_task">Add a new task</string>
+</resources>
